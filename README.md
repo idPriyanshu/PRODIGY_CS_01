@@ -58,11 +58,11 @@ Ensure Python 3.6 or later is installed. Download it from the [official Python w
 ## ▶️ Usage Instructions
 1. 📂 Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/PRODIGY_TrackCode_Task01.git
+   git clone https://github.com/<your-username>/PRODIGY_CS_01.git
 
 2. 📂 Navigate to the project directory:
    ```bash
-   cd PRODIGY_TrackCode_Task01
+   cd PRODIGY_CS_01
 
 3. ▶️ Run the program:
     ```bash
