@@ -88,11 +88,11 @@ Ensure Python 3.6 or later is installed. You can download it from the [official 
 
 ## 🏆 Credits
 
-- **Developer:** Priyanshu  
+- **Developer:** [@idPriyanshu](https://www.github.com/idPriyanshu)
 - **Mentorship:** Prodigy InfoTech Cyber Security Internship Program  
 
 ---
 
 ## 📧 Contact
 
-For queries or suggestions, reach out at [your-email@example.com](mailto:iiit.priyanshu@gmail.com).
+For queries or suggestions, reach out at [iiit.Priyanshu@gmail.com](mailto:iiit.priyanshu@gmail.com).
